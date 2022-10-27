@@ -1,0 +1,26 @@
+.container {
+    margin-top: 2rem;
+}
+
+p {
+    font-size: 1.25rem;
+}
+
+input {
+    margin-top: 1rem;
+}
+
+.correct {
+    color: rgb(13, 231, 13);
+    font-weight: bold;
+}
+
+.incorrect {
+    color: rgb(243, 8, 8);
+    font-weight: bold;
+    font-style: italic;
+}
+
+.pending {
+    color: #000000;
+}
